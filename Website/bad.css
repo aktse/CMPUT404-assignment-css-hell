@@ -1,0 +1,78 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+/* White outline for text*/
+h1 {
+	  text-shadow: 1px 0 0 #fff, 
+	  				-1px 0 0 #fff, 
+	  				0 1px 0 #fff, 
+	  				0 -1px 0 #fff, 
+	  				1px 1px 0 #fff, 
+	  				-1px -1px 0 #fff, 
+	  				1px -1px 0 #fff, 
+	  				-1px 1px 0 #fff;
+}
+
+/* Name and title */
+#header h1 {
+	margin: 0;
+	text-align: center;
+	margin-top: 7%;
+	vertical-align: baseline;
+}
+
+#header {
+	top: 0px;
+	background: url('images/sky_bg.jpg') repeat-x;
+	background-size: cover;
+	position: relative;
+	height: 50%;
+	border-bottom: 5px groove black;
+}
+
+.center {
+	height: 50%;
+	width: 50%;
+	margin: auto;
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+}
+
+#sidebar-wrapper {
+	background-color: yellow;
+    height: 100%;
+}
+
+#content-wrapper {
+	background-color: black;
+	height: 150%;
+}
+
+#content-wrapper h2 {
+	text-align: center;
+}
+
+#content-wrapper p {
+	text-align: justify;
+}
+
+.image-wrapper {
+	width: 150;
+	height: 150px;
+	border-radius: 75px;
+	background: url('images/Profile.jpg');
+	background-size: cover;
+}
+
+h2, h3, h4, p, li {
+	color: green;
+	margin: auto;
+	padding: 10px;
+	font-family: "Zaph Chancery", cursive;
+}
+
+h2 {
+	color: blue;
+}

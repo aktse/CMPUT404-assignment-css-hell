@@ -1,0 +1,62 @@
+/* Indent to match background */
+p, h1, h2, h3, h4, h5, h6 {
+	margin: 2.5% 5% 2.5% 5%;
+}
+
+pre {
+	margin-left: 5%;
+}
+
+/* ============================== */
+
+/* Font and style */
+p, h1, h2, h3, h4, h5, h6 {
+	text-indent: 5%;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+p {
+	text-align: justify;
+}
+
+/* ============================== */
+
+/* Remove default decorations and coloring on click */
+a, a:visited {
+	color: blue;
+	text-decoration:none;
+}
+
+/* Make links more visible */
+a:hover {
+	font-weight: bold;	
+}
+
+body {
+	background: -webkit-linear-gradient(right, #cca300, #ffd633 5%, #ffcc00 50%, #ffd633 95%, #cca300);
+	background: -o-linear-gradient(right, #cca300, #ffd633 5%, #ffcc00 50%, #ffd633 95%, #cca300);
+	background: -moz-linear-gradient(right, #cca300, #ffd633 5%, #ffcc00 50%, #ffd633 95%, #cca300);
+	background: linear-gradient(right, #cca300, #ffd633 5%, #ffcc00 50%, #ffd633 95%, #cca300);
+}
+
+img {
+	border: none;
+	text-align: center;
+}
+
+/* Table of Contents/errata table */
+table {
+	width: 75%;
+	margin: auto;
+}
+
+td {
+	padding: 1%;
+	border: 1px solid black;
+}
+
+/* Pride and prejudice Table of Contents */
+blockquote p {
+	display: inline-block;
+}

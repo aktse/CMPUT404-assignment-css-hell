@@ -1,7 +1,7 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
+'You will skin 3 project gutenberg stories with custom CSS.'
 
 Chosen texts:
 
@@ -16,8 +16,15 @@ HTML Changes:
 2. Removed most inline css (left class specific css)
 3. Inserted CSS link to 'main.css'
 
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
+'You will skin 2 versions of a possible professional homepage for your
+self with 2 versions of CSS.'
+
+To view the 2 webpages, simply uncomment the appropriate link in the html file.
+
+Images used did not require attribution.
+Bad css header : https://pixabay.com/en/abstract-background-space-1105851/
+nice css header : https://pixabay.com/en/sunset-lake-mountain-scenery-142698/
+
 
 Read requirements.org
 
