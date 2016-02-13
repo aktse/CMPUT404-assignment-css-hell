@@ -22,8 +22,8 @@ self with 2 versions of CSS.'
 To view the 2 webpages, simply uncomment the appropriate link in the html file.
 
 Images used did not require attribution.
-Bad css header : https://pixabay.com/en/abstract-background-space-1105851/
-nice css header : https://pixabay.com/en/sunset-lake-mountain-scenery-142698/
+* Bad css header : https://pixabay.com/en/abstract-background-space-1105851/
+* Nice css header : https://pixabay.com/en/sunset-lake-mountain-scenery-142698/
 
 
 Read requirements.org
